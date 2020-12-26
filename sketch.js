@@ -30,7 +30,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(29000, 301, 159 );
+  background("white");
  
   
   paper.display();
